@@ -3,6 +3,30 @@
 把确定好的护肤计划变成每天可以执行、记录和回顾的日历。
 
 AI护肤手册 是一个H5项目，用于制定你个人的护肤计划以及护肤治疗过程记录，包含**提示词生成**和**护肤计划执行**。先填写表单说明个人情况，系统会为你生成一个提示词，复制提示词给自己使用的 AI，让其按格式生成一份护肤计划；与 AI 确定计划后，导入 Markdown 文件，就可以开始每天的护理任务啦。
+后续有预算会逐渐增加一体化AI定制护肤计划，AI分析护肤情况等功能。
+
+## 在小红书中使用
+
+[打开小红书小工具「AI护肤手册」](https://www.xiaohongshu.com/s/poster?bgimg=https%3A%2F%2Fsns-redskillhub-s1.xhscdn.com%2Fred_app_image%2F1040g4m8327j97nuq7g605ol4ao6oc1d33k3kkqo%3Fsign%3Dce72657e3b274731ef28db02faeb7f71%26t%3D6cdaa41e&xhsshare=&appuid=62a4560d00000000210205a3&apptime=1794732189&deeplink=xhsdiscover%3A%2F%2FminiTool%2F6af963d8f2fc360015c34069%3Fsource%3Dh5%26page_key%3D28%26xhsMpScreenMode%3Dfull%26share_id%3Df55684b92e38481bbe5e346f3907dfc3%26share_channel%3Dcopy_link)
+
+建议在手机上打开分享链接，并按页面提示进入小红书使用。
+
+1. 点击“生成提示词”，填写自己的情况，长按生成的文本选择并复制给自己的 AI。
+2. 与 AI 确定计划后，将 Markdown 全文粘贴到“导入或调整计划”，保存后开始打卡。
+3. 在护理过程中记录情况、添加照片，通过日历查看完成状态。
+4. 需要交给其他应用时，查看导出的 JSON 文本，长按选择并复制。
+
+小红书版支持粘贴计划和选择照片，计划导入使用文本粘贴，导出使用 JSON 文本。资料和记录保存在当前设备的小红书本地缓存中，与网页版分别保存。清理应用数据前请先导出。
+
+### 小工具实机截图
+
+<table>
+<tr>
+<td><img src="docs/screenshots/xiaohongshu-home.jpg" width="300" alt="小红书小工具首页，提供生成提示词和导入计划入口"></td>
+<td><img src="docs/screenshots/xiaohongshu-prompt.jpg" width="300" alt="小红书小工具提示词表单，展示肤质选择与补充输入"></td>
+</tr>
+<tr><td>小工具首页</td><td>填写情况与生成提示词</td></tr>
+</table>
 
 ## 页面预览
 
