@@ -1,0 +1,10 @@
+node_modules/
+dist/
+ai
+AGENTS.md
+
+# 保留发布说明及结果，忽略部署包和临时请求
+releases/**/*.tar.gz
+releases/**/*.tar
+releases/**/*.zip
+releases/**/request.json
