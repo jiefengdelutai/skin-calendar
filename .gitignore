@@ -14,3 +14,5 @@ minitool/releases/*
 !minitool/releases/*/
 minitool/releases/*/*
 !minitool/releases/*/change.md
+
+.codex/
