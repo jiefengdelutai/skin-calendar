@@ -1,0 +1,19 @@
+{
+  "id": "appgdep_6af95abfe4e8819185438a47cf3cb982",
+  "project_id": "appgprj_6af88d4458048191b61b5d30cd11d7b6",
+  "title": "护肤手记",
+  "version_id": "appgprj_6af88d4458048191b61b5d30cd11d7b6~appgver_73517fe7b2c48191933151f3d94e2982",
+  "type": "publish",
+  "status": "succeeded",
+  "url": "https://skin-diary-nov26-h7m.affablemarch2.chatgpt.site",
+  "has_mcp": false,
+  "screenshot_asset_pointer": null,
+  "provider_deployment_id": "release---6af88e0a9088819198eb472f027bd806",
+  "failure_message": null,
+  "env_set_revision": 0,
+  "updated_at": "2026-11-15T07:10:13.137266+00:00",
+  "version": "1.2.0",
+  "commit_sha": "baab638b26672b1e4b47bcffb96ce33acaa59a7e",
+  "sha256": "9F1D09999E9EF5FFBA9BDB71A9DBC4A1225268DCD9023FA55451604B5431E779",
+  "archive": "site.tar.gz"
+}
