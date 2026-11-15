@@ -8,3 +8,9 @@ releases/**/*.tar.gz
 releases/**/*.tar
 releases/**/*.zip
 releases/**/request.json
+minitool/*
+!minitool/releases/
+minitool/releases/*
+!minitool/releases/*/
+minitool/releases/*/*
+!minitool/releases/*/change.md
